@@ -45,3 +45,4 @@ class _LoadingScreenState extends State<LoadingScreen> {
 // JSON Viewer Pro
 // 인터넷 퍼미션 추가 <uses-permission android:name="android.permission.INTERNET" />
 // https가 아닐 경우: <application> 안에 추가 android:usesCleartextTraffic="True"
+// https://openweathermap.org/
